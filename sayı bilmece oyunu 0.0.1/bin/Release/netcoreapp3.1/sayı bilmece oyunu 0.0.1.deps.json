@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sayı bilmece oyunu 0.0.1/1.0.0": {
+        "runtime": {
+          "sayı bilmece oyunu 0.0.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayı bilmece oyunu 0.0.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sayı bilmece oyunu 0.0.1", "sayı bilmece oyunu 0.0.1\sayı bilmece oyunu 0.0.1.csproj", "{D1EDF363-2A78-4163-86A5-A253B3E44352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1EDF363-2A78-4163-86A5-A253B3E44352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EDF363-2A78-4163-86A5-A253B3E44352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EDF363-2A78-4163-86A5-A253B3E44352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EDF363-2A78-4163-86A5-A253B3E44352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8383929-762E-4C64-A841-EEB8264D25CE}
+	EndGlobalSection
+EndGlobal
